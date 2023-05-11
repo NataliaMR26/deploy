@@ -1,0 +1,12 @@
+{
+    "users":[
+       {
+        "id": 1,
+        "username": "Natalia Maldonado",
+        "age": "18",
+        "email": "108nrm@gmail.com",
+        "address": "calle 142",
+        "password": "987",
+        "phone": "3014650610"} 
+    ]
+}
